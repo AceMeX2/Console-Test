@@ -38,6 +38,8 @@ int main(){
         cout << "Whoops another glitch." << endl;
     }
     
+    cout << "I'm sorry you had to see that." << endl;
+    
     return 0;
     
 } 
