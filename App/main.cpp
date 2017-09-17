@@ -27,15 +27,13 @@ int main(){
     
     if (age > 17)
     {
-        cout << "Adult Mode Activated. Hello Big Boy and or Girl." << endl;
-        
-        cout << "Whoops you weren't meant to see that." << endl;
+        cout << "Wanna buy some 2008 housing loans?"
     }
     
     else {
-        cout << "Child Mode Activated." << endl;
+        cout << "Wanna buy some weed" << endl;
         
-        cout << "Whoops another glitch." << endl;
+        cout << "Whoops another glitch. ;)" << endl;
     }
     
     cout << "I'm sorry you had to see that." << endl;
