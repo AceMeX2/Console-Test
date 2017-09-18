@@ -36,7 +36,9 @@ int main(){
         cout << "Whoops another glitch. ;)" << endl;
     }
     
-    cout << "I'm sorry you had to see that." << endl;
+    cout << "/n But anyway do you want to talk about 1: Anime 2: Whatever the fuck jake wants to talk about./n" << endl;
+    cout << "Enter 1 or 2
+    
     
     return 0;
     
